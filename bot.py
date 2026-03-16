@@ -35,7 +35,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ============= CONFIGURATION =============
-BOT_TOKEN = "8694998735:AAHoFfT4U4u1eqJXnuMOMRgGHl97EP9k8YI"
+BOT_TOKEN = "8435334061:AAFjLwRluJ3SJOed7UH5VpFDNGfICmSs5JM"
 API_ID = 22091901
 API_HASH = "54b0cd5fb47a40265b197f1a110b20b8"
 ORIGINAL_ADMIN_IDS = [8104158848, 8514746265, 5393060599]  # Cannot be removed
